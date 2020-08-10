@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="30d51909-3886-4c7a-ad2d-73321e73063c" name="abhijatb@forte.pr:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="forte.pr" port="22" sshConfigId="711a6e77-a450-4d31-9614-9f734895b9ed" sshConfig="abhijatb@forte.pr:22 password" />
+      </webServer>
+    </option>
+  </component>
+</application>

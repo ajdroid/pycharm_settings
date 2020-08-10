@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="forte.pr" id="711a6e77-a450-4d31-9614-9f734895b9ed" port="22" nameFormat="DESCRIPTIVE" username="abhijatb" />
+    </configs>
+  </component>
+</application>
