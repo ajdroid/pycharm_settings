@@ -4,6 +4,15 @@
       <webServer id="30d51909-3886-4c7a-ad2d-73321e73063c" name="abhijatb@forte.pr:22" url="http:///">
         <fileTransfer accessType="SFTP" host="forte.pr" port="22" sshConfigId="711a6e77-a450-4d31-9614-9f734895b9ed" sshConfig="abhijatb@forte.pr:22 password" />
       </webServer>
+      <webServer id="558fa17c-4e23-4266-b6ca-2911aeb6e5e8" name="abhijatb@forte.pr:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="forte.pr" port="22" sshConfigId="3540a4f5-9ae3-4cd0-a51d-6f9e6d85e861" sshConfig="abhijatb@forte.pr:22 agent" authAgent="true" />
+      </webServer>
+      <webServer id="7158908a-4371-4fa1-acf5-7b1221e9e14b" name="abhijatb@forte.pr:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="forte.pr" port="22" sshConfigId="3540a4f5-9ae3-4cd0-a51d-6f9e6d85e861" sshConfig="abhijatb@forte.pr:22 agent" authAgent="true" />
+      </webServer>
+      <webServer id="9ebdf6d8-affd-4ec7-b43b-4491b6539bb6" name="abhijatb@forte.pr:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="forte.pr" port="22" sshConfigId="3540a4f5-9ae3-4cd0-a51d-6f9e6d85e861" sshConfig="abhijatb@forte.pr:22 agent" authAgent="true" />
+      </webServer>
     </option>
   </component>
 </application>
